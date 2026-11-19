@@ -1,8 +1,8 @@
 # [Nome do projeto]
 
 ## Integrantes
-- [Nome completo 1]
-- [Nome completo 2]
+- Luis Felipe
+- Lucas Rumph
 
 ## Objetivo
 [Explique em 2 ou 3 linhas o que o sistema faz e qual problema resolve.]
