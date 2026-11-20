@@ -5,7 +5,7 @@
 - Lucas Rumph
 
 ## Objetivo
-[Explique em 2 ou 3 linhas o que o sistema faz e qual problema resolve.]
+.
 
 ## Componentes
 **Microcontrolador:** Arduino Uno
