@@ -68,11 +68,8 @@ Simular três sistemas que existem em carros modernos usando Arduino Uno:
 
 ![Esquema de ligação](imagens/esquema.png)
 
-## Fotos
-![Montagem](imagens/montagem.jpg)
-
 ## Vídeo
-[Link do vídeo de demonstração]([cole o link aqui])
+O vídeo de demonstração foi entregue pelo Microsoft Teams.
 
 ## Código
 Arquivo: [`sistema_automotivo.ino`](sistema_automotivo/sistema_automotivo.ino)
